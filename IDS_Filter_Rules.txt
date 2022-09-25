@@ -1,0 +1,6 @@
+#default Rule file
+#Rule format: 
+#<src IP address> <src port> <dst IP address> <dst port> "ALERT MESSAGE"
+
+#example
+333.222.555.111 443 500.200.1000.8123 37414 "MESSAGE 1" 
